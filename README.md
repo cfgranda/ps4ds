@@ -27,7 +27,27 @@
   - [Simulating an exponential](https://github.com/cfgranda/ps4ds/blob/main/continuous_variables/simulating_an_exponential.ipynb) Inverse transform sampling
 
 ## Multiple Discrete Variables
+
+- [Movie ratings](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/movie_ratings.ipynb) Joint probability mass function, marginal distribution, conditional distribution 
+- [Precipitation in Oregon (and Hawaii and Rhode Island)](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/precipitation.ipynb) Joint probability mass function, marginal distribution, conditional distribution, independence, conditional independence
+- [Curse of dimensionality](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/curse_of_dimensionality.ipynb) 
+- [Precipitation time series](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/markov_chain_precipitation.ipynb) Markov chains, stationarity
+- [Car rental](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/car_rental.ipynb) Time-homogeneous Markov chains, stationary distribution
+- [Political affiliation](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/naive_bayes_political_affiliation.ipynb) Naive Bayes, classification
+  
 ## Multiple Continuous Variables
+
+- [Temperature in Manhattan and Versailles](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/temperatures.ipynb) Joint probability density function, marginal distribution, conditional distribution
+- [More temperature data](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/temperatures_conditional_independence.ipynb) Joint probability density function, marginal distribution, conditional distribution, conditional independence
+- [Anthropometric data](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/anthropometric_data_gaussian.ipynb) Joint probability density function, kernel density estimation, Gaussian random vectors, maximum likelihood, parametric and nonparametric models
+- [2D kernel density estimation]
+- [Movie duration and earnings]
+- [Conditional distribution of Gaussian random variables]
+- [Eigendecomposition analysis of multivariate Gaussian distribution]
+- [Exotic fruit]
+- [Simulating a lake]
+- [Simulating a triangle]
+
 ## Discrete and Continuous Variables
 ## Averaging
 ## Correlation
