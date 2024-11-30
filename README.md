@@ -40,15 +40,25 @@
 - [Temperature in Manhattan and Versailles](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/temperatures.ipynb) Joint probability density function, marginal distribution, conditional distribution
 - [More temperature data](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/temperatures_conditional_independence.ipynb) Joint probability density function, marginal distribution, conditional distribution, conditional independence
 - [Anthropometric data](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/anthropometric_data_gaussian.ipynb) Joint probability density function, kernel density estimation, Gaussian random vectors, maximum likelihood, parametric and nonparametric models
-- [2D kernel density estimation]
-- [Movie duration and earnings]
-- [Conditional distribution of Gaussian random variables]
-- [Eigendecomposition analysis of multivariate Gaussian distribution]
-- [Exotic fruit]
-- [Simulating a lake]
-- [Simulating a triangle]
+- [2D kernel density estimation](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/kernel_density_estimation_2D.ipynb)
+- [Movie duration and earnings](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/movie_duration_earnings.ipynb) Joint probability density function, conditional pdf, independence
+- [Conditional distribution of Gaussian random variables](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/gaussian_2D_conditionals.ipynb)
+- [Eigendecomposition analysis of multivariate Gaussian distribution](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/gaussian_2D_eigendecomposition.ipynb)
+- [Exotic fruit](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/exotic_fruit_exercise.ipynb) Gaussian random vectors
+- [Simulating a lake](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/simulating_lake.ipynb) Inverse-transform sampling, dependence between random variables
+- [Simulating a triangle](https://github.com/cfgranda/ps4ds/blob/main/multiple_continuous_variables/simulating_triangle.ipynb)
 
 ## Discrete and Continuous Variables
+
+-[Temperature and precipitation in Mauna Loa](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/temperature_and_precipitation.ipynb) Joint distribution of discrete and continuous variables, marginal distributions, conditional distributions, kernel density estimation
+-[Height and sex](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_and_sex.ipynb) Mixture model, Gaussian parametric model, joint distribution of discrete and continuous variables, marginal distributions, conditional distributions
+-[Height and handedness](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_handedness.ipynb) Joint distribution of discrete and continuous variables, independence, kernel density estimation
+-[Alzheimer's diagnostics](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/alzheimers_gaussian_discriminant_analysis.ipynb) Classification, Gaussian random vectors, Gaussian discriminant analysis, quadratic discriminant analysis, linear discriminant analysis, maximum likelihood, parametric models
+-[Clustering according to height](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_and_sex_gaussian_mixture_model.ipynb) Gaussian mixture model, expectation maximization algorithm, clustering, unsupervised learning
+-[Clustering NBA players](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/nba_gaussian_mixture_model.ipynb) Gaussian mixture model, expectation maximization algorithm, clustering, unsupervised learning
+-[Election poll](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/election_Bayesian_analysis.ipynb) Bayesian parametric modeling, beta distribution, prior and posterior distributions, conjugate prior
+-[How not to predict an election](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/how_not_to_predict_an_election.ipynb) Bayesian parametric modeling, independence, conditional independence, Monte Carlo method
+
 ## Averaging
 ## Correlation
 ## Estimation of Population Parameters
