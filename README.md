@@ -28,12 +28,12 @@
 
 ## Multiple Discrete Variables
 
-- [Movie ratings](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/movie_ratings.ipynb) Joint probability mass function, marginal distribution, conditional distribution 
-- [Precipitation in Oregon (and Hawaii and Rhode Island)](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/precipitation.ipynb) Joint probability mass function, marginal distribution, conditional distribution, independence, conditional independence
-- [Curse of dimensionality](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/curse_of_dimensionality.ipynb) 
-- [Precipitation time series](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/markov_chain_precipitation.ipynb) Markov chains, stationarity
-- [Car rental](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/car_rental.ipynb) Time-homogeneous Markov chains, stationary distribution
-- [Political affiliation](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/naive_bayes_political_affiliation.ipynb) Naive Bayes, classification
+  - [Movie ratings](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/movie_ratings.ipynb) Joint probability mass function, marginal distribution, conditional distribution
+  - [Precipitation in Oregon (and Hawaii and Rhode Island)](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/precipitation.ipynb) Joint probability mass function, marginal distribution, conditional distribution, independence, conditional independence
+  - [Curse of dimensionality](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/curse_of_dimensionality.ipynb) 
+  - [Precipitation time series](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/markov_chain_precipitation.ipynb) Markov chains, stationarity
+  - [Car rental](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/car_rental.ipynb) Time-homogeneous Markov chains, stationary distribution
+  - [Political affiliation](https://github.com/cfgranda/ps4ds/blob/main/multiple_discrete_variables/naive_bayes_political_affiliation.ipynb) Naive Bayes, classification
   
 ## Multiple Continuous Variables
 
@@ -50,18 +50,48 @@
 
 ## Discrete and Continuous Variables
 
--[Temperature and precipitation in Mauna Loa](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/temperature_and_precipitation.ipynb) Joint distribution of discrete and continuous variables, marginal distributions, conditional distributions, kernel density estimation
--[Height and sex](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_and_sex.ipynb) Mixture model, Gaussian parametric model, joint distribution of discrete and continuous variables, marginal distributions, conditional distributions
--[Height and handedness](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_handedness.ipynb) Joint distribution of discrete and continuous variables, independence, kernel density estimation
--[Alzheimer's diagnostics](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/alzheimers_gaussian_discriminant_analysis.ipynb) Classification, Gaussian random vectors, Gaussian discriminant analysis, quadratic discriminant analysis, linear discriminant analysis, maximum likelihood, parametric models
--[Clustering according to height](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_and_sex_gaussian_mixture_model.ipynb) Gaussian mixture model, expectation maximization algorithm, clustering, unsupervised learning
--[Clustering NBA players](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/nba_gaussian_mixture_model.ipynb) Gaussian mixture model, expectation maximization algorithm, clustering, unsupervised learning
--[Election poll](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/election_Bayesian_analysis.ipynb) Bayesian parametric modeling, beta distribution, prior and posterior distributions, conjugate prior
--[How not to predict an election](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/how_not_to_predict_an_election.ipynb) Bayesian parametric modeling, independence, conditional independence, Monte Carlo method
+- [Temperature and precipitation in Mauna Loa](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/temperature_and_precipitation.ipynb) Joint distribution of discrete and continuous variables, marginal distributions, conditional distributions, kernel density estimation
+- [Height and sex](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_and_sex.ipynb) Mixture model, Gaussian parametric model, joint distribution of discrete and continuous variables, marginal distributions, conditional distributions
+- [Height and handedness](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_handedness.ipynb) Joint distribution of discrete and continuous variables, independence, kernel density estimation
+- [Alzheimer's diagnostics](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/alzheimers_gaussian_discriminant_analysis.ipynb) Classification, Gaussian random vectors, Gaussian discriminant analysis, quadratic discriminant analysis, linear discriminant analysis, maximum likelihood, parametric models
+- [Clustering according to height](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/height_and_sex_gaussian_mixture_model.ipynb) Gaussian mixture model, expectation maximization algorithm, clustering, unsupervised learning
+- [Clustering NBA players](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/nba_gaussian_mixture_model.ipynb) Gaussian mixture model, expectation maximization algorithm, clustering, unsupervised learning
+- [Election poll](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/election_Bayesian_analysis.ipynb) Bayesian parametric modeling, beta distribution, prior and posterior distributions, conjugate prior
+- [How not to predict an election](https://github.com/cfgranda/ps4ds/blob/main/discrete_and_continuous_variables/how_not_to_predict_an_election.ipynb) Bayesian parametric modeling, independence, conditional independence, Monte Carlo method
 
 ## Averaging
+
+- [NBA salaries](https://github.com/cfgranda/ps4ds/blob/main/averaging/nba_salaries.ipynb) Mean, median, outliers
+- [Movie ratings](https://github.com/cfgranda/ps4ds/blob/main/averaging/movie_ratings_conditional_mean.ipynb) Sample conditional mean, conditional expectation
+- [Temperatures in the United States](https://github.com/cfgranda/ps4ds/blob/main/averaging/temperature_mean_variance.ipynb) Sample mean, sample variance, sample standard deviation
+- [Temperature in Manhattan and Versailles](https://github.com/cfgranda/ps4ds/blob/main/averaging/temperatures_conditional_mean.ipynb) Sample conditional mean, regression
+- [Do private classes improve grades?](https://github.com/cfgranda/ps4ds/blob/main/averaging/private_classes_average_treatment_effect.ipynb) Causal inference, average treatment effect, confounding factor, adjusting for confounders
+- [Does title capitalization increase YouTube views?](https://github.com/cfgranda/ps4ds/blob/main/averaging/YouTube_titles_randomized_experiment.ipynb) Causal inference, average treatment effect
+
 ## Correlation
+
+- [Height and NBA stats](https://github.com/cfgranda/ps4ds/blob/main/correlation/rebounds_assists_height_correlation.ipynb) Correlation coefficient, standardization, explained variance, linear estimation, nonlinear estimation, uncorrelation, independence
+- [Gaussian random vector](https://github.com/cfgranda/ps4ds/blob/main/correlation/correlation_gaussian_random_vector.ipynb)
+- [Uncorrelation implies independence in Gaussian variables](https://github.com/cfgranda/ps4ds/blob/main/correlation/gaussian_independence.ipynb)
+- [Feeding guinea pigs](https://github.com/cfgranda/ps4ds/blob/main/correlation/correlation_causation_guinea_pigs.ipynb) Correlation and causation, confounder, causal inference
+- [Unemployment in Spain](https://github.com/cfgranda/ps4ds/blob/main/correlation/unemployment_spain.ipynb) Correlation and causation, confounder, causal inference, linear regression, adjusting for confounding factors
+
 ## Estimation of Population Parameters
+
+- [Height]
+- [Gross domestic product]
+- [COVID-19 prevalence]
+- [Gambler's paradox]
+- [Cauchy random variable]
+- [Local economic activity]
+- [Central limit theorem (discrete variables)]
+- [Central limit theorem (continuous variables)]
+- [Basketball strategy]
+- [Financial crisis]
+- [Confidence intervals]
+- [Bootstrap confidence intervals](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/correlation_coefficient_bootstrap_confidence_intervals.ipynb)
+- [Height and foot length](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/correlation_coefficient_confidence_intervals.ipynb) Correlation coefficient, sample correlation coefficient, Gaussian confidence intervals, the bootstrap, bootstrap percentile confidence intervals, Fisher's transformation
+  
 ## Hypothesis Testing
 ## Principal Component Analysis and Low-Rank Models
 ## Regression and Classification
