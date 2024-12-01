@@ -71,8 +71,8 @@
 ## Correlation
 
 - [Height and NBA stats](https://github.com/cfgranda/ps4ds/blob/main/correlation/rebounds_assists_height_correlation.ipynb) Correlation coefficient, standardization, explained variance, linear estimation, nonlinear estimation, uncorrelation, independence
-- [Gaussian random vector](https://github.com/cfgranda/ps4ds/blob/main/correlation/correlation_gaussian_random_vector.ipynb)
-- [Uncorrelation implies independence in Gaussian variables](https://github.com/cfgranda/ps4ds/blob/main/correlation/gaussian_independence.ipynb)
+- [Gaussian random vector](https://github.com/cfgranda/ps4ds/blob/main/correlation/correlation_gaussian_random_vector.ipynb) Correlation coefficient, explained variance
+- [Uncorrelation implies independence in Gaussian variables](https://github.com/cfgranda/ps4ds/blob/main/correlation/gaussian_independence.ipynb) 
 - [Feeding guinea pigs](https://github.com/cfgranda/ps4ds/blob/main/correlation/correlation_causation_guinea_pigs.ipynb) Correlation and causation, confounder, causal inference
 - [Unemployment in Spain](https://github.com/cfgranda/ps4ds/blob/main/correlation/unemployment_spain.ipynb) Correlation and causation, confounder, causal inference, linear regression, adjusting for confounding factors
 
