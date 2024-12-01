@@ -1,4 +1,4 @@
-# Code for [Probability and Statistics for Data Science](https://www.ps4ds.net/) 
+# [Code repository](https://github.com/cfgranda/ps4ds) for [Probability and Statistics for Data Science](https://www.ps4ds.net/) 
 
 ## Probability
 
