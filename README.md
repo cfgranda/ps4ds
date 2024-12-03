@@ -78,18 +78,21 @@
 
 ## Estimation of Population Parameters
 
-- [Height]
-- [Gross domestic product]
-- [COVID-19 prevalence]
-- [Gambler's paradox]
-- [Cauchy random variable]
-- [Local economic activity]
-- [Central limit theorem (discrete variables)]
-- [Central limit theorem (continuous variables)]
-- [Basketball strategy]
-- [Financial crisis]
-- [Confidence intervals]
-- [Bootstrap confidence intervals](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/correlation_coefficient_bootstrap_confidence_intervals.ipynb)
+- [Height](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/height_sample_mean.ipynb) Sample mean, random sampling, law of large numbers, bias, standard error, consistency, Chebyshev bound, convergence in probability, central limit theorem, convergence in distribution
+- [Gross domestic product](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/gdp_sample_mean.ipynb) Sample mean, random sampling, law of large numbers
+- [COVID-19 prevalence](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/COVID19_sample_proportion.ipynb) Sample proportion, random sampling, law of large numbers, bias, standard error, consistency, convergence in probability, central limit theorem, convergence in distribution
+- [Gambler's paradox](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/gamblers_paradox.ipynb) Law of large numbers, sample mean
+- [The law of large numbers does not apply to the Cauchy distribution](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/cauchy_sample_mean.ipynb)
+- [Local economic activity](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/local_economic_activity.ipynb) Law of large numbers, consistency of the sample mean, outliers
+- [Central limit theorem (discrete variables)](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/clt_discrete_distribution.ipynb) Central limit theorem, convolution, sum of independent random variables
+- [Central limit theorem (continuous variables)](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/clt_continuous_distribution.ipynb) Central limit theorem, convolution, sum of independent random variables
+- [Basketball strategy](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/basketball_strategy.ipynb) Central limit theorem, Gaussian approximation to the binomial, Monte Carlo method
+- [Financial crisis](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/financial_crisis.ipynb) Central limit theorem, independence, Monte Carlo method
+- [Confidence intervals for the sample mean](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/height_confidence_intervals.ipynb)
+- [Confidence intervals for precipitation](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/precipitation_confidence_intervals.ipynb) Confidence intervals, sample proportion, random sampling
+- [Bootstrap sample mean](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/sample_mean_bootstrap.ipynb) The bootstrap, bootstrap standard error, sample mean
+- [Bootstrap Gaussian confidence intervals](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/sample_mean_bootstrap_confidence_intervals.ipynb)
+- [Bootstrap percentile confidence intervals](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/correlation_coefficient_bootstrap_confidence_intervals.ipynb)
 - [Height and foot length](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/correlation_coefficient_confidence_intervals.ipynb) Correlation coefficient, sample correlation coefficient, Gaussian confidence intervals, the bootstrap, bootstrap percentile confidence intervals, Fisher's transformation
   
 ## Hypothesis Testing
