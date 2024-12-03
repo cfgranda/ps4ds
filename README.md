@@ -2,9 +2,9 @@
 
 ## Probability
 
-  - [Random coin flips](https://github.com/cfgranda/ps4ds/blob/main/probability/random_coin_flips_table.ipynb) Sampling
   - [Voting by members of the United States House of Representatives](https://github.com/cfgranda/ps4ds/blob/main/probability/US_congress_votes.ipynb)
     Empirical probability, conditional probability, independence, conditional independence
+  - [Random coin flips](https://github.com/cfgranda/ps4ds/blob/main/probability/random_coin_flips_table.ipynb) Sampling
   - [3X3 basketball Olympics tournament](https://github.com/cfgranda/ps4ds/blob/main/probability/olympics_3x3_basketball.ipynb) Monte Carlo method
   - [Boxing championship](https://github.com/cfgranda/ps4ds/blob/main/probability/boxing_championship_exercise.ipynb) Monte Carlo method
   - [Videogame](https://github.com/cfgranda/ps4ds/blob/main/probability/videogame_exercise.ipynb) Monte Carlo method
