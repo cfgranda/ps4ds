@@ -96,5 +96,16 @@
 - [Height and foot length](https://github.com/cfgranda/ps4ds/blob/main/estimation_population_parameters/correlation_coefficient_confidence_intervals.ipynb) Correlation coefficient, sample correlation coefficient, Gaussian confidence intervals, the bootstrap, bootstrap percentile confidence intervals, Fisher's transformation
   
 ## Hypothesis Testing
+
+- [Die rolls](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/die_rolls.ipynb) Null hypothesis, test statistic, p value, parametric testing, power function
+- [Antetokounmpo's free throws](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/giannis_free_throws.ipynb) Null hypothesis, test statistic, p value, two-sample test, z test, one-tailed test, two-tailed test, parametric testing, power function, permutation test, nonparametric testing
+- [Burger prices](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/burger_prices_permutation_test.ipynb) Permutation test, nonparametric testing, p value
+- [Tom Brady and hurricanes](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/tom_brady_hurricanes_permutation_test.ipynb) Permutation test, nonparametric testing
+- [Comparing school grades](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/student_grades.ipynb) permutation test, nonparametric testing, median
+- [Clutch three-point shooting](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/three_pointers_clutch.ipynb) Multiple testing, Bonferroni's correction, p value
+- [Evaluating NBA players](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/multiple_testing_NBA.ipynb) Multiple testing, Bonferroni's correction, p value, permutation test, average treatment effect
+- [Practical significance vs. statistical significance](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/practical_significance_confidence_intervals.ipynb)
+- [P-hacking](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/p-hacking.ipynb) p-hacking, publication bias
+
 ## Principal Component Analysis and Low-Rank Models
 ## Regression and Classification
