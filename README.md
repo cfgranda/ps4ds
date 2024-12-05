@@ -108,4 +108,15 @@
 - [P-hacking](https://github.com/cfgranda/ps4ds/blob/main/hypothesis_testing/p-hacking.ipynb) p-hacking, publication bias
 
 ## Principal Component Analysis and Low-Rank Models
+
+- [Gaussian random vector](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/Gaussian_random_vector.ipynb) Mean of a random vector vector, covariance matrix, directional variance, principal component analysis, spectral theorem
+- [Canadian cities](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/canada_cities.ipynb) Sample mean of a vector, sample covariance matrix, principal component analysis, spectral theorem
+- [Faces](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/face_pca.ipynb) Principal component analysis, dimensionality reduction, sample mean of a vector
+- [Wheat seeds](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/wheat.ipynb) Sample covariance matrix, principal component analysis, dimensionality reduction
+- [Face classification](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/faces_nearest_neighbor.ipynb) Principal component analysis, dimensionality reduction, nearest neighbor
+- [Temperatures in the United States](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/temperatures_low_rank_model.ipynb) Sample covariance matrix, singular value decomposition, principal component analysis, low-rank model
+- [Prediction of movie ratings (cartoon example)](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/collaborative_filtering_simple_example.ipynb) Low rank model, singular value decomposition, matrix completion, collaborative filtering, singular-value thresholding, imputation
+- [Prediction of movie ratings (real data)](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/collaborative_filtering_movie_ratings.ipynb) Low rank model, singular value decomposition, matrix completion, collaborative filtering, singular-value thresholding, imputation
+- [Topic modeling](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/topic_modeling.ipynb) Low-rank model, singular value decomposition, nonnegative matrix factorization 
+
 ## Regression and Classification
