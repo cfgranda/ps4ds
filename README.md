@@ -120,3 +120,21 @@
 - [Topic modeling](https://github.com/cfgranda/ps4ds/blob/main/pca_and_low_rank_models/topic_modeling.ipynb) Low-rank model, singular value decomposition, nonnegative matrix factorization 
 
 ## Regression and Classification
+
+- [Premature mortality in US counties](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/US_counties.ipynb) Linear regression, ordinary least squares, coefficient of determination, explained variance
+- [Cartoon illustration of overfitting and generalization](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/overfitting_simple_example.ipynb)
+- [Noise amplification in linear regression 1](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/two_features_collinearity.ipynb) Ordinary least squares, ridge regression
+- [Noise amplification in linear regression 2](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/two_features_OLS_ridge_regression.ipynb) Ordinary least squares, ridge regression
+- [Temperature in Versailles](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/temperature_linear_regression.ipynb) Linear regression, ordinary least squares, ridge regression, sparse regression, lasso, regularization, overfitting
+- [Sparse regression 1](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/two_features_lasso.ipynb) Sparsity, lasso, regularization
+- [Sparse regression 2](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/two_features_lasso_cost_function.ipynb) Sparsity, lasso, regularization
+- [Height and sex](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/logistic_regression_height_and_sex.ipynb) Logistic regression, maximum likelihood, log-likelihood, logistic function
+- [Alzheimer's diagnostics](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/alzheimers_logistic_regression.ipynb) Classification, logistic regression, evaluation of classification models, calibration
+- [Estimating wheat varieties via softmax regression](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/wheat_softmax_regression.ipynb)
+- [Digit classification](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/mnist_softmax_regression.ipynb) Softmax regression, overfitting, regularization
+- [Temperature estimation via regression trees](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/temperature_regression_tree.ipynb) 
+- [Temperature estimation via tree ensembles](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/temperature_bagging_random_forest_boosting.ipynb) Bagging, random forests, boosting, overfitting
+- [Log-likelihood of classification tree](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/classification_tree_loglikelihood.ipynb)
+- [Temperature estimation via neural networks](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/temperature_neural_network.ipynb) Regression, neural networks, deep learning, overfitting, early stopping
+- [Estimating wheat varieties via a classification tree](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/wheat_classification_tree.ipynb)
+- [Estimating wheat varieties via neural networks](https://github.com/cfgranda/ps4ds/blob/main/regression_classification/wheat_neural_net.ipynb)
