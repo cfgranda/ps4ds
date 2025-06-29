@@ -1,5 +1,7 @@
 # [Code repository](https://github.com/cfgranda/ps4ds) for [Probability and Statistics for Data Science](https://www.ps4ds.net/) 
 
+Code for the book [Probability and Statistics for Data Science](https://a.co/d/cAss9mO). A free preprint, videos, code, slides and solutions to exercises are available at https://www.ps4ds.net 
+
 ## Probability
 
   - [Voting by members of the United States House of Representatives](https://github.com/cfgranda/ps4ds/blob/main/probability/US_congress_votes.ipynb)
