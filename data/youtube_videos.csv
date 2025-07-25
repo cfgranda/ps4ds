@@ -1,0 +1,118 @@
+Video title,Views
+Overview of Probability,3523
+BOREL SETS ARE NOT THAT SCARY: MATHEMATICAL DEFINITION OF CONTINUOUS RANDOM VARIABLES,2240
+THE HISTOGRAM AND KERNEL DENSITY ESTIMATION: NONPARAMETRIC DENSITY ESTIMATORS,1483
+PROBABILITY SPACES,1330
+CONVERGENCE OF MARKOV CHAINS,1013
+CONDITIONAL PROBABILITY,950
+The Poisson Distribution: Modeling Earthquakes,852
+MAXIMUM LIKELIHOOD: FITTING DISCRETE MODELS TO DATA,761
+Estimating Probabilities From Data,718
+RANDOM VARIABLES ARE WHAT? OVERVIEW OF DISCRETE RANDOM VARIABLES,700
+Life Is Not A Homework Problem: The Monte Carlo Method,669
+Bayesian Models,657
+Fitting Continuous Models to Data via Maximum Likelihood,654
+PARAMETRIC VS. NONPARAMETRIC MODELS,616
+THE CUMULATIVE DISTRIBUTION FUNCTION AND QUANTILES,616
+Gaussian Random Vectors: Marginal and Conditional Distributions,610
+Independence Between Events,588
+Markov Chains,581
+CONDITIONAL INDEPENDENCE,578
+GAUSSIAN RANDOM VECTORS: DEFINITION AND GEOMETRIC INTUITION,549
+Probability Mass Function: The User Interface of Discrete Random Variables,539
+Why Probabilistic Modeling is Hard: The Curse of Dimensionality and Naive Bayes,537
+Joint Distribution of Discrete and Continuous Random Variables,530
+Joint Simulation of Random Variables,507
+Under the Hood: Mathematical Definition of Discrete Random Variables,503
+The Bernoulli and Binomial Distributions,489
+Probability Density Of Random Vectors,479
+Overview of Continuous Random Variables,474
+HOW NOT TO PREDICT AN ELECTION,447
+CAUSAL INFERENCE: CONFOUNDERS AND HOW TO ADJUST FOR THEM,444
+Multivariate Continuous Random Variables,444
+What is the Mystery Function? (Inverse Transform Sampling),442
+CAUSAL INFERENCE: POTENTIAL OUTCOMES AND RANDOMIZATION,442
+THE GEOMETRIC DISTRIBUTION: MODELING DURANT'S FREE-THROW STREAKS,441
+THE CONDITIONAL MEAN FUNCTION,419
+The Exponential Distribution,412
+PROBABILITY DENSITY OF CONTINUOUS RANDOM VARIABLES,408
+Dependence (and Independence) Between Discrete and Continuous Variables,406
+ITERATED EXPECTATION AND THE CONDITIONAL MEAN,401
+Multivariate Discrete Random Variables,385
+THE MEAN: AVERAGING RANDOM VARIABLES,380
+MODELING DEPENDENCE (AND INDEPENDENCE) BETWEEN CONTINUOUS RANDOM VARIABLES,375
+Marginal Distribution Of Continuous Random Variables,372
+FUNCTIONS OF CONTINUOUS RANDOM VARIABLES,367
+Modeling Multiple Continuous Variables (Overview),359
+The Gaussian Distribution,341
+"THE VARIANCE, THE STANDARD DEVIATION AND THE MEAN SQUARE",336
+WAS COURTNEY LEE BETTER THAN STEPH CURRY? SIMPSON'S PARADOX,335
+The Covariance Matrix,329
+OPTIMAL REGRESSION VIA THE CONDITIONAL MEAN,316
+The Correlation Coefficient,301
+Conditional Distributions and Independence of Discrete Random Variables,299
+A Geometric Analysis of Correlation,281
+Modeling Multiple Discrete Variables (Overview),281
+MARGINAL DISTRIBUTIONS OF DISCRETE RANDOM VARIABLES,279
+SIMPLE LINEAR REGRESSION,266
+CORRELATION AND COVARIANCE,261
+Properties of the Mean,256
+COBRA: Confidence-based Anomaly Detection for Medicine,251
+EXTREME VALUES DISTORT THE MEAN,249
+Dimensionality Reduction via Principal Component Analysis,246
+MEAN OF PARAMETRIC DISTRIBUTIONS AND THE METHOD OF MOMENTS,244
+The Mathematics Behind Principal Component Analysis,236
+HYPOTHESIS TESTING AND CAUSAL INFERENCE,214
+THE CENTRAL LIMIT THEOREM,212
+PROPERTIES OF THE CORRELATION COEFFICIENT,198
+The Law of Large Numbers Can Fail!,189
+No Model? No Problem! The Permutation Test,184
+THE NULL HYPOTHESIS AND THE P VALUE,181
+Why Sums And Averages Tend To Look Gaussian,178
+Principal Component Analysis,175
+OVERVIEW OF AVERAGING,174
+CORRELATION DOES NOT (USUALLY) IMPLY CAUSATION,173
+Bootstrap Confidence Intervals,169
+Uncorrelation and Independence,169
+Overview of Correlation,167
+P-Value Abuse! Practical Significance and P Hacking,166
+THE BOOTSTRAP,162
+Statistical Significance: Why the P Value Controls False Positives,160
+ESTIMATION OF POPULATION PARAMETERS FROM RANDOM SAMPLES (OVERVIEW),160
+The Law of Large Numbers and Deviation Inequalities,156
+RANDOM SAMPLING AND ESTIMATION BIAS,146
+THE STANDARD ERROR,145
+CONFIDENCE INTERVALS,142
+How Not To Estimate Risk: A Simple Model of Subprime Mortgages,131
+A Two-Sample Test for Antetokounmpo's Free Throws,125
+Overview of Hypothesis Testing,121
+THE POWER OF HYPOTHESIS TESTS,112
+CONFIDENCE INTERVALS FOR PROBABILITIES AND PROPORTIONS,109
+MULTIPLE TESTING: EVALUATING NBA PLAYERS,95
+Low-Rank Models,91
+Linear Regression: Explained Variance,85
+CLUSTERING VIA GAUSSIAN MIXTURE MODELS,75
+OVERVIEW OF DISCRETE AND CONTINUOUS RANDOM VARIABLES,71
+Overview of Regression,69
+OVERVIEW OF CAUSAL INFERENCE,68
+OVERVIEW OF PRINCIPAL COMPONENT ANALYSIS AND LOW-RANK MODELS,67
+Linear Regression: Linear Minimum MSE Estimation,65
+CAUSAL INFERENCE: POTENTIAL OUTCOMES AND CONFOUNDERS,64
+Correlation Does Not Usually Imply Causation (But It Can!),59
+RIDGE REGRESSION: WHY REGULARIZATION MITIGATES OVERFITTING,58
+LINEAR REGRESSION: ORDINARY LEAST SQUARES,56
+MATRIX COMPLETION FOR COLLABORATIVE FILTERING,53
+SOFTMAX REGRESSION,48
+OVERVIEW OF CLASSIFICATION,48
+REGRESSION TREES,44
+Gaussian Discriminant Analysis for Alzheimer's Diagnosis,43
+CAUSAL INFERENCE VIA LINEAR REGRESSION,41
+THE LASSO: SPARSE REGRESSION VIA L1-NORM REGULARIZATION,39
+"TREE ENSEMBLES: BAGGING, RANDOM FORESTS AND BOOSTING",38
+Logistic Regression,37
+Neural Networks and Deep Learning,32
+LINEAR REGRESSION: TRAINING ERROR,31
+Linear Regression: Coefficient Error,29
+"Evaluating Classifiers: Classification Metrics, AUC and Calibration",29
+Linear Regression: Test Error,28
+Classification Trees,21
